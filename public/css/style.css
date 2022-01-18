@@ -315,7 +315,7 @@ body {
 .card__img {
   height: 170px;
   object-fit: cover;
-  object-position: 0% 80%%;
+  object-position: 0% 60%;
   flex-shrink: 0;  
 }
 
