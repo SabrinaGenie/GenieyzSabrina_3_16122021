@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Shrikhand&display=swap" rel="stylesheet">
     <link rel="icon" href="favicon.ico" sizes="any" />
-    <link rel="icon" href="favicon.svg" type="image.svg" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="./public/css/style.css">
 
 
@@ -32,12 +32,12 @@
     </div>
  
     <main>
-        <section class="localisation">
+        <form class="localisation">
             <i class="fas fa-map-marker-alt localisation__icon"></i>
             <label for="localisation"></label>
             <input type="text" id="localisation" name="localisation" required
        value="Paris, Belleville" class="localisation__input">
-        </section>
+        </form>
 
 
 
@@ -47,7 +47,6 @@
             <a href="" class="abstract__button button">
                 <p class="button__text">Explorer nos restaurants</p>
             </a>
-
         </section>
 
         <section class="operation">
@@ -91,7 +90,7 @@
             </a>
 
             <a href="./pages/note_enchantee.html" class="card">
-                <img src="./images/la-note-enchantee.jpg" alt="La note enchantée" class="card__img"/>
+                <img src="./images/la-note-enchantee.jpg" alt="La note enchantée" id="note_enchantee"/>
                 <div class="card__body">
                     <h3 class="card__body__title">La note enchantée</h3>
                     <p class="card__body__text">Charonne</p>

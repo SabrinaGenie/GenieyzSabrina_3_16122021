@@ -278,6 +278,20 @@ body {
   margin-top: 60px;
   width: 100%;
 }
+.card__img {
+  height: 170px;
+  object-fit: cover;
+  object-position: 0% 60%;
+  flex-shrink: 0;  
+}
+
+#note_enchantee {
+  height: 170px;
+  object-fit: cover;
+  object-position: 0% 60%;
+  flex-shrink: 0;  
+}
+
 @media all and (min-width: 768px) {
   .restaurants {
     flex-direction: row;
@@ -301,8 +315,17 @@ body {
 .card__img {
   height: 170px;
   object-fit: cover;
-  flex-shrink: 0;
+  object-position: 0% 80%%;
+  flex-shrink: 0;  
 }
+
+#note_enchantee {
+  height: 170px;
+  object-fit: cover;
+  object-position: 0% 60%;
+  flex-shrink: 0;  
+}
+
 .card__body {
   background: white;
   height: 75px;
@@ -644,5 +667,3 @@ body {
   display: flex;
   justify-content: center;
 }
-
-/*# sourceMappingURL=style.css.map */
