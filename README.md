@@ -1,6 +1,7 @@
 # GenieyzSabrina_3_16122021
 
-3eme Projet de la foramtion Développement Web d'Openclassrooms : 
+3ème Projet de la formation Développement Web d'Openclassrooms : 
+
 Dynamisez une page web avec des animations CSS
 
 Mise en situation : Création d'un site pour l'entreprise Ohmyfood
@@ -10,13 +11,13 @@ Entreprise de commande de repas en ligne, développée premièrement à New-York
 Propose les menus de restaurants gastronomiques.
 Permet aux utilisateurs de composer leur propre menu en ligne :
 Leur menu étant donc préparé à l’avance, le temps d’attente sur place est réduit.
-Nouvelles ambitions :
-élargir le concept à Paris avec des restaurants luxueux. 
-être identifiée comme une entreprise proposant des services haut de gamme.
+Nouvelles ambitions d'Ohmyfood :
+Élargir le concept à Paris avec des restaurants luxueux. 
+Être identifiée comme une entreprise proposant des services haut de gamme.
 
 Spécifiactions techniques :
 Mobile first website.
-Responsive mobile, tablet & desktop.
+Responsive : mobile, tablet & desktop.
 Aucun framework.
 Pas de Javascript ni de librairie.
 Aucun code CSS appliqué via un attribut style dans une balise HTML. 
